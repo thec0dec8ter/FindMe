@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:title="Set destination"
+        android:icon="@android:drawable/ic_lock_idle_alarm"
+        app:showAsAction="ifRoom"/>
+
+    <item
+        android:title="Optimize route"
+        android:icon="@android:drawable/ic_lock_idle_alarm"
+        app:showAsAction="ifRoom"/>
+
+    <item
+        android:title="Chat"
+        android:icon="@android:drawable/ic_lock_idle_alarm"
+        app:showAsAction="ifRoom"/>
+
+    <item
+        android:title="Panic"
+        android:icon="@android:drawable/ic_lock_idle_alarm"
+        app:showAsAction="ifRoom"/>
+</menu>
